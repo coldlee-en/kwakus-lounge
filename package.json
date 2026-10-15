@@ -1,0 +1,1 @@
+{"name":"kwakus-lounge","version":"1.0.0","private":true,"type":"module","scripts":{"build":"vite build","start":"node server.js","test":"node tests.mjs"},"devDependencies":{"playwright":"1.56.1","vite":"^6.4.4"}}
